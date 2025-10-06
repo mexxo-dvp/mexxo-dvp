@@ -24,21 +24,20 @@ Clear runbooks/dashboards and ownership‑based alerts
 
 ### sentinel‑bot — ChatOps/EdgeOps bot (Go)
 
-<small><small>
-**Repo:** [https://github.com/mexxo-dvp/sentinel-bot](https://github.com/mexxo-dvp/sentinel-bot)
+**Repo:**<a href="https://github.com/mexxo-dvp/sentinel-bot"> <img src="https://img.shields.io/badge/sentinel-bot-github-5A3E85?style=for-the-badge&logo=github" alt="sentinel-bot"> </a>
 Flux HelmRelease + Helm/OCI; multi‑arch distroless image to GHCR; rollout strategies.
 OTel traces/metrics → Tempo/Prom; logs → Loki; Grafana Explore with derived `trace_id` for fast debugging.
 
+   
 ### Observability Foundation — production‑ready stack (GitOps)
 
-<small><small>
 GMP (Prometheus), Loki, Tempo, Grafana 12, OpenTelemetry Operator + Collector, Fluent Bit cluster‑wide — all managed with Flux.
 Datasource sync via token/UID; SLOs/alerts/runbooks; Logs↔Traces correlation for app teams.
 
 ### gke‑iac / gke‑iac‑standard — IaC for GKE + GitOps bootstrap
 
 
-**Repos:** [https://github.com/mexxo-dvp/gke-iac-standard](https://github.com/mexxo-dvp/gke-iac-standard) • [https://github.com/mexxo-dvp/gke-iac-autopilot](https://github.com/mexxo-dvp/gke-iac-autopilot)
+**Repos:** <a href="https://github.com/mexxo-dvp/gke-iac-standard"> <img src="https://img.shields.io/badge/gke-iac-standard-github-5A3E85?style=for-the-badge&logo=github" alt="gke-iac-standard"> </a> and <a href="https://github.com/mexxo-dvp/gke-iac-autopilot"> <img src="https://img.shields.io/badge/gke-iac-autopilot-5A3E85?style=for-the-badge&logo=github" alt="gke-iac-autopilot"> </a>
 Terraform/OpenTofu for Autopilot & Standard clusters; Workload Identity; Flux bootstrap; standardized namespaces/quotas guardrails.
 
 ### AsciiArtify (R&D) — preview envs & observability demo
@@ -51,10 +50,10 @@ K8s preview environments, GitOps flow (Helm/Argo CD), lightweight ML; demo dashb
 Prometheus DevOps Intensive — in progress (2025)
 Hackathon: Intelligent Kubernetes Autoscaler Challenge — co‑lead (GitOps/Observability), 2025 
 
-### Additional
+## Additional
 
-Languages: Ukrainian — Native; English — B1
-Public repos: GHCR packages, Helm charts, Flux manifests (pinned on GitHub)
-Volodymyr Dobrydnyev — 
-Bratislava, SK • [mmexxoo@gmail.com](mailto:mmexxoo@gmail.com) • [https://github.com/mexxo-dvp](https://github.com/mexxo-dvp) • [https://www.linkedin.com/in/volodymyr-dobrydnev-2a8615387/](https://www.linkedin.com/in/volodymyr-dobrydnev-2a8615387/)
+### Languages: Ukrainian — Native; English — B1
+### Volodymyr Dobrydnyev
+### Slovakia, SK 
+### <a href="mailto:mmexxoo@gmail.com"> <img src="https://img.shields.io/badge/gmail-5A3E85?style=for-the-badge&logo=gmail" alt="gmail"> </a> • <a href="https://www.linkedin.com/in/volodymyr-dobrydnev-2a8615387"> <img src="https://img.shields.io/badge/linkedin-5A3E85?style=for-the-badge&logo=linkedin" alt="linkedin"> </a>
 
