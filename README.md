@@ -37,8 +37,8 @@ Datasource sync via token/UID; SLOs/alerts/runbooks; Logs↔Traces correlation f
 ### gke‑iac / gke‑iac‑standard — IaC for GKE + GitOps bootstrap
 
 
-**Repos:** [![gke-iac-standard](https://img.shields.io/badge/gke--iac--standard-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/gke-iac-standard) with Terraform/OpenTofu Autopilot and Repo [![gke-iac-autopilot](https://img.shields.io/badge/gke--iac--autopilot-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/gke-iac-autopilot) with
-Terraform/OpenTofu Standard cluster; Workload Identity; Flux bootstrap; standardized namespaces/quotas guardrails.
+**Repos:** [![gke-iac-standard](https://img.shields.io/badge/gke--iac--standard-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/gke-iac-standard) with Terraform/OpenTofu Standard and Repo [![gke-iac-autopilot](https://img.shields.io/badge/gke--iac--autopilot-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/gke-iac-autopilot) with
+Terraform/OpenTofu Autopilot cluster; Workload Identity; Flux bootstrap; standardized namespaces/quotas guardrails.
 
 ### AsciiArtify (R&D) — preview envs & observability demo
 
