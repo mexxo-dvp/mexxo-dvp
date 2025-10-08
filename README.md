@@ -24,7 +24,7 @@ Clear runbooks/dashboards and ownership‑based alerts
 
 ### sentinel‑bot — ChatOps/EdgeOps bot (Go)
 
-**Repo:**<a href="https://github.com/mexxo-dvp/sentinel-bot"> <img src="https://img.shields.io/badge/sentinel-bot-github-5A3E85?style=for-the-badge&logo=github" alt="sentinel-bot"> </a>
+**Repo:** [![sentinel-bot](https://img.shields.io/badge/sentinel--bot-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/sentinel-bot)
 Flux HelmRelease + Helm/OCI; multi‑arch distroless image to GHCR; rollout strategies.
 OTel traces/metrics → Tempo/Prom; logs → Loki; Grafana Explore with derived `trace_id` for fast debugging.
 
@@ -37,8 +37,8 @@ Datasource sync via token/UID; SLOs/alerts/runbooks; Logs↔Traces correlation f
 ### gke‑iac / gke‑iac‑standard — IaC for GKE + GitOps bootstrap
 
 
-**Repos:** <a href="https://github.com/mexxo-dvp/gke-iac-standard"> <img src="https://img.shields.io/badge/gke-iac-standard-github-5A3E85?style=for-the-badge&logo=github" alt="gke-iac-standard"> </a> and <a href="https://github.com/mexxo-dvp/gke-iac-autopilot"> <img src="https://img.shields.io/badge/gke-iac-autopilot-5A3E85?style=for-the-badge&logo=github" alt="gke-iac-autopilot"> </a>
-Terraform/OpenTofu for Autopilot & Standard clusters; Workload Identity; Flux bootstrap; standardized namespaces/quotas guardrails.
+**Repos:** [![gke-iac-standard](https://img.shields.io/badge/gke--iac--standard-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/gke-iac-standard) with Terraform/OpenTofu Autopilot and Repo [![gke-iac-autopilot](https://img.shields.io/badge/gke--iac--autopilot-github-5A3E85?style=for-the-badge&logo=github)](https://github.com/mexxo-dvp/gke-iac-autopilot) with
+Terraform/OpenTofu Standard cluster; Workload Identity; Flux bootstrap; standardized namespaces/quotas guardrails.
 
 ### AsciiArtify (R&D) — preview envs & observability demo
 
