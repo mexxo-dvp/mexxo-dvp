@@ -55,5 +55,5 @@ Hackathon: Intelligent Kubernetes Autoscaler Challenge — co‑lead (GitOps/Obs
 ### Languages: Ukrainian — Native; English — B1
 ### Volodymyr Dobrydnyev
 ### Slovakia, SK 
-### <a href="mailto:mmexxoo@gmail.com"> <img src="https://img.shields.io/badge/gmail-5A3E85?style=for-the-badge&logo=gmail" alt="gmail"> </a> • <a href="https://www.linkedin.com/in/volodymyr-dobrydnev-2a8615387"> <img src="https://img.shields.io/badge/linkedin-5A3E85?style=for-the-badge&logo=linkedin" alt="linkedin"> </a>
+### <a href="mailto:mmexxoo@gmail.com"> <img src="https://img.shields.io/badge/gmail-5A3E85?style=for-the-badge&logo=gmail" alt="gmail"> </a> • <a href="https://www.linkedin.com/in/mexxo"> <img src="https://img.shields.io/badge/linkedin-5A3E85?style=for-the-badge&logo=linkedin" alt="linkedin"> </a>
 
