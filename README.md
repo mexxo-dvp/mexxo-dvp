@@ -3,7 +3,7 @@
 ### Summary
 
 DevOps/Platform engineer focused on Kubernetes, GitOps, and Observability. Built reproducible GitOps flows (Flux/Helm/OCI),
-SOPS‑KMS secrets, and Logs↔Traces correlation in Grafana v12 with OpenTelemetry. Practical, documentation‑first, fast incident loops.
+SOPS‑KMS secrets, and Logs↔Traces correlation in Grafana v12 based on OpenTelemetry. Practical, documentation‑first, fast incident loops.
 
 ### Core Skills
 
@@ -12,11 +12,11 @@ SOPS‑KMS secrets, and Logs↔Traces correlation in Grafana v12 with OpenTeleme
 **CI/CD & Supply Chain:** GitHub Actions • GHCR (multi‑arch, distroless) • release automation
 **IaC & Cloud:** Terraform/OpenTofu • Workload Identity (GCP)
 **Security & Policy:** SOPS‑KMS • RBAC • (ready for) OPA/Kyverno guardrails
-**Languages:** Go • Bash • YAML • basic Python
+**Languages:** Go • Bash • basic Python
 
 ### GitOps Strengths
 
-Declarative‑first PR flow • Clean repo hygiene (protected branches, conventional commits) • Multi‑env layout (clusters/apps) •
+Declarative‑first PR flow • Clean repo hygiene (protected branches, conventional commits) •
 Secrets via SOPS‑KMS + Workload Identity • Health checks & drift control • Progressive delivery & quick rollback •
 Clear runbooks/dashboards and ownership‑based alerts
 
@@ -29,10 +29,10 @@ Flux HelmRelease + Helm/OCI; multi‑arch distroless image to GHCR; rollout stra
 OTel traces/metrics → Tempo/Prom; logs → Loki; Grafana Explore with derived `trace_id` for fast debugging.
 
    
-### Observability Foundation — production‑ready stack (GitOps)
+### Observability Foundation — production‑ready stack (GitOps), private repo
 
 GMP (Prometheus), Loki, Tempo, Grafana 12, OpenTelemetry Operator + Collector, Fluent Bit cluster‑wide — all managed with Flux.
-Datasource sync via token/UID; SLOs/alerts/runbooks; Logs↔Traces correlation for app teams.
+Datasource sync via token/UID; SLOs/alerts/runbooks; Logs↔Traces correlation for apps.
 
 ### gke‑iac / gke‑iac‑standard — IaC for GKE + GitOps bootstrap
 
@@ -43,11 +43,11 @@ Terraform/OpenTofu Autopilot cluster; Workload Identity; Flux bootstrap; standar
 ### AsciiArtify (R&D) — preview envs & observability demo
 
 
-K8s preview environments, GitOps flow (Helm/Argo CD), lightweight ML; demo dashboards and Logs↔Traces correlations.
+K8s preview environments, GitOps flow (Helm/Argo CD), lightweight ML.
 
 ### Education & Learning
 
-Prometheus DevOps Intensive — in progress (2025)
+Prometheus DevOps Intensive — completed (2025)
 Hackathon: Intelligent Kubernetes Autoscaler Challenge — co‑lead (GitOps/Observability), 2025 
 
 ## Additional
