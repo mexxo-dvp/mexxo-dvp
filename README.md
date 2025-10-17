@@ -1,4 +1,4 @@
-## Greetings 👋
+# Greetings 👋
 
 I value hands-on practice and strong self-organization. I bring a strong work ethic, the ability to learn quickly, resilience under pressure, clear communication, and effective problem-solving and teamwork.
 
